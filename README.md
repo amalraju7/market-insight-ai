@@ -22,6 +22,12 @@
   </a>
 </p>
 
+## Demo
+
+[![MarketInsight AI Demo](https://img.youtube.com/vi/tcW9yIaLluo/maxresdefault.jpg)](https://www.youtube.com/watch?v=tcW9yIaLluo)
+
+> **Demo of MarketInsight AI** showing real-time AI chat with interactive stock charts, live market data sidebar, and TradingView widgets. [Watch on YouTube →](https://www.youtube.com/watch?v=tcW9yIaLluo)
+
 ## Overview
 
 MarketInsight AI is an AI-powered stock market analysis platform that leverages Llama3 70b on Groq, Vercel's AI SDK, and TradingView's live widgets to provide intelligent market insights through natural conversation. With Groq's lightning-fast inference, you get near-instantaneous responses with live, interactive charts and real-time market data.
@@ -88,12 +94,9 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 MIT License - feel free to use this project for your own purposes.
 
-## Overview
+## License
 
-StockBot is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel’s AI SDK, and TradingView’s live widgets to respond in conversation with live, interactive charts and interfaces specifically tailored to your requests. Groq's speed makes tool calling and providing a response near instantaneous, allowing for a sequence of two API calls with separate specialized prompts to return a response.
-
-> [!IMPORTANT]
->  Note: StockBot may provide inaccurate information and does not provide investment advice. It is for entertainment and instructional use only.
+MIT License - feel free to use this project for your own purposes.
 
 ## Features
 
