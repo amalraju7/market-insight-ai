@@ -24,9 +24,15 @@
 
 ## Demo
 
-[![MarketInsight AI Demo](https://img.youtube.com/vi/tcW9yIaLluo/maxresdefault.jpg)](https://www.youtube.com/watch?v=tcW9yIaLluo)
-
-> **Demo of MarketInsight AI** showing real-time AI chat with interactive stock charts, live market data sidebar, and TradingView widgets. [Watch on YouTube →](https://www.youtube.com/watch?v=tcW9yIaLluo)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=tcW9yIaLluo">
+    <img src="https://img.youtube.com/vi/tcW9yIaLluo/maxresdefault.jpg" alt="MarketInsight AI Demo" style="width:100%;max-width:800px;">
+  </a>
+  
+  **[▶️ Watch Demo Video](https://www.youtube.com/watch?v=tcW9yIaLluo)**
+  
+  <p><em>Demo of MarketInsight AI showing real-time AI chat with interactive stock charts, live market data sidebar, and TradingView widgets.</em></p>
+</div>
 
 ## Overview
 
