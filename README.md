@@ -54,7 +54,7 @@ MarketInsight AI is an AI-powered stock market analysis platform that leverages 
 ## Interfaces
 | Description | Widget |
 |-------------|--------|
-| **Live Market Data Sidebar**<br>Real-time price tracking for 60+ stocks across 8 sectors with collapsible layout. Features major indices (S&P 500, Nasdaq, Dow), Magnificent 7 tech stocks, AI & Tech, Finance, Energy, Healthcare, Consumer brands, and Crypto. | *New Feature* |
+| **Live Market Data Sidebar**<br>Real-time price tracking for 60+ stocks across 8 sectors with collapsible layout. Features major indices (S&P 500, Nasdaq, Dow), Magnificent 7 tech stocks, AI & Tech, Finance, Energy, Healthcare, Consumer brands, and Crypto. | ![Live Market Data Sidebar](https://github.com/user-attachments/assets/84232425-ecb4-4d7e-a1b6-7720b10d95d1) |
 | **Heatmap of Daily Market Performance**<br>Visualize market trends at a glance with an interactive heatmap. | ![Heatmap of Daily Market Performance](https://github.com/user-attachments/assets/2e3919a3-280b-4be4-adcd-a1ff636bff3e) |
 | **Breakdown of Financial Data for Stocks**<br>Get detailed financial metrics and key performance indicators for any stock. | ![Breakdown of Financial Data for Stocks](https://github.com/user-attachments/assets/c1c32dac-8295-4efb-ac1e-2eea8a89e7db) |
 | **Price History of Stock**<br>Track the historical price movement of stocks with customizable date ranges. | ![Price History of Stock](https://github.com/user-attachments/assets/f588068e-4d95-4188-96fd-866d355c993e) |
